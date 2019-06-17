@@ -6,3 +6,5 @@ var age = "20"
 
 var a = "小花"
 var b = "小明"
+
+var c = "小强"
