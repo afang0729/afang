@@ -10,3 +10,7 @@ var b = "小明"
 var c = "小强"
 
 var d = "小张"
+var d = "小王"
+
+
+var f = "小李"
