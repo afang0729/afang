@@ -8,3 +8,5 @@ var a = "小花"
 var b = "小明"
 
 var c = "小强"
+
+var d = "小张"
